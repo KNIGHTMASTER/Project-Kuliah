@@ -6,3 +6,7 @@ This is Repository for all My Projects on College
 ![alt tag] (https://github.com/KNIGHTMASTER/Resources/blob/master/PEGADAIAN/login.PNG)
 * Pegadaian Main App
 ![alt tag] (https://github.com/KNIGHTMASTER/Resources/blob/master/PEGADAIAN/main-app.PNG)
+
+# Turing Machine Project
+* Running Turing Machine App
+![alt tag] (https://github.com/KNIGHTMASTER/Resources/blob/master/TURING%20MACHINE/run-tm.PNG)

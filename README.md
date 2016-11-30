@@ -30,8 +30,6 @@ This is Repository for all My Projects on College
 # Swing View Project
 * Running Card Layout
 ![alt tag] (https://github.com/KNIGHTMASTER/Resources/blob/master/CARD%20LAYOUT/RUN-CL.PNG)
-* Running Card Layout
-![alt tag] (https://github.com/KNIGHTMASTER/Resources/blob/master/CARD%20LAYOUT/RUN-CL.PNG)
 * Running Swing Make Over Application
 ![alt tag] (https://github.com/KNIGHTMASTER/Resources/blob/master/SWING%20MAKE%20OVER/RUN-SWO.PNG)
 * Running Mini Word Application

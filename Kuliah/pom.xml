@@ -21,5 +21,6 @@
         <module>CardLayout</module>
         <module>SwingMakeOver</module>
         <module>MiniWordApplication</module>
+        <module>Himpunan</module>
     </modules>
 </project>

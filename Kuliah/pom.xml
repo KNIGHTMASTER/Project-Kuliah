@@ -11,5 +11,15 @@
     <modules>
         <module>sipegadaian</module>
         <module>TuringMachine</module>
+        <module>DiskriminanAnalisis</module>
+        <module>FSAApplication</module>
+        <module>FSAApplication2</module>
+        <module>KonversiBilanganDigital</module>
+        <module>KonversiNilai</module>
+        <module>KonversiWaktu</module>
+        <module>KonversiSuhu</module>
+        <module>CardLayout</module>
+        <module>SwingMakeOver</module>
+        <module>MiniWordApplication</module>
     </modules>
 </project>
